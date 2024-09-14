@@ -1,5 +1,5 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-### Name: Harsshitha lakshamanan
+### Name: Harsshitha lakshmanan
 ### Reg.NO: 212223230075
 ## Aim: 
 To perform a study on Client Server Chat Applications
